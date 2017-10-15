@@ -34,3 +34,6 @@ At time 350ms, short circuit is applied to output. This is done by switching Vsw
 
 6 - R1 should be no larger than R3. R2 - pick 10K.
 
+### Complete simulation
+
+![Alt Text](/img/complete_schem.jpg)
