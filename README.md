@@ -1,4 +1,4 @@
-# Self-Protected-Output-Driver-with-Feedback
+# Self-Protected-Output-Driver-with-Feedback - Analog HW
 
 Note: Circuit simulation was done using LT Spice and source file is included.
 
